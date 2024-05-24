@@ -9,7 +9,7 @@
       <div class="container">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1 class="m-0 text-dark"> Panes Disponibles </h1>
+            <h1 class="m-0 text-dark"> Panes Disponibles (descuento para los del diplomado Devops Essentials)</h1>
           </div><!-- /.col -->
           
         </div><!-- /.row -->
